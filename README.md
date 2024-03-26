@@ -1,2 +1,11 @@
 # Network-Traffic-Analysis
-NTA module 
+## Common Traffic Analysis Tools
+* tcpdump
+* Tshark
+* Wireshark
+* tcpick
+* Ngrep
+* Network Taps
+* Elastick Stack
+* SIEMS
+  
